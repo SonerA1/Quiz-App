@@ -25,7 +25,6 @@ The number of questions for testing is left low.
 
 ![Ekran görüntüsü 2023-07-29 231225](https://github.com/SonerA1/Quiz-App/assets/114054564/ee4a6957-546a-4a44-b1bb-bc602c7b82bb)
 ![Ekran görüntüsü 2023-07-29 231303](https://github.com/SonerA1/Quiz-App/assets/114054564/50368719-7b03-4e24-8715-fc02baa7a797)
-![Ekran görüntüsü 2023-07-29 230025](https://github.com/SonerA1/Quiz-App/assets/114054564/c1de5ba3-6f28-4c82-aed8-1ac120e5b21d)
-![Ekran görüntüsü 2023-07-29 230038](https://github.com/SonerA1/Quiz-App/assets/114054564/3e748db4-e08a-4734-8b76-17f8822fb33a)![Ekran görüntüsü 2023-07-29 230055](https://github.com/SonerA1/Quiz-App/assets/114054564/6aaad3de-9cec-4dc5-a02b-b5df6128742a)
+![toplu](https://github.com/SonerA1/Quiz-App/assets/114054564/7582abf3-f1d0-48f2-b2c7-55ff85d070ee)
 
 
